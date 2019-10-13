@@ -12,6 +12,6 @@ aText is a Natural Language Processing (NLP) package. The package includes most 
 - subject-verb-object triple extraction
 - web-scraping and social media analyses (Facebook, Twitter)
 
-The original package has been written in platform-independent Java with a graphical user interface and made accessible via  API to the jar file. A Python wrapper has been added to expose most of the functions to data scientists and engineers. The code in the notebook file aTextUsageExamples provides some example usage of the package aText - basic sentiment analysis, sentence-level summarization, and Naive Bayesian Classifer (NBC).
+The original package has been written in platform-independent Java with a graphical user interface and made accessible via  API to the jar file. A Python wrapper has been added to expose most of the functions to data scientists and engineers. The code in the notebook file aTextUsageExamples.ipynb provides some example usage of the package aText - basic sentiment analysis, sentence-level summarization, and Naive Bayesian Classifer (NBC).
 
 Requirements: Java 1.8 installed, packages py4j, requests, and subprocess, 400MB of space in the Python package directory.
