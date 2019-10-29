@@ -1,0 +1,1 @@
+This is the text analytics package aText. The notebook file contains the description of the package and the installation requirements.
