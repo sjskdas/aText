@@ -1,4 +1,4 @@
-# Analysis of Text (aText)
+# Analysis of Text (aText) in Python and Java
 
 Analytsis of Text (aText) is a Natural Language Processing (NLP) package developed over many years using machine and deep learning and symbolic AI techniques. The full aText package implements the most fundamental aspects of deep linguistics processing as listed below. Many real-world applications have been written using the functionalities of aText, including legal contract verification and documents classification, investors sentiment analysis, call center chat sentiment analysis with embedded acoustic features, semantic search for accurate documents retrieval, translation of natural language query to SQL, image captioning, and extraction of information about competitive asset managers. Patents on several proprietary algorithms implemented in the package are pending.
 
