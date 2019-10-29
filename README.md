@@ -1,6 +1,6 @@
 # Analysis of Text (aText)
 
-Analytsis of Text (aText) is a Natural Language Processing (NLP) package developed over many years using machine and deep learning and symbolic AI techniques. The full aText package implements the most fundamental aspects of deep linguistics processing as listed below. Many real-world applications have been written using the functionalities of aText, including legal contract verification and documents classification, investors sentiment analysis, call center chat sentiment analysis with embedded acoustic features, semantic search for accurate documents retrieval, translation of natural language query to SQL, and extraction of information about competitive asset managers. Patents on several proprietary algorithms implemented in the package are pending.
+Analytsis of Text (aText) is a Natural Language Processing (NLP) package developed over many years using machine and deep learning and symbolic AI techniques. The full aText package implements the most fundamental aspects of deep linguistics processing as listed below. Many real-world applications have been written using the functionalities of aText, including legal contract verification and documents classification, investors sentiment analysis, call center chat sentiment analysis with embedded acoustic features, semantic search for accurate documents retrieval, translation of natural language query to SQL, image captioning, and extraction of information about competitive asset managers. Patents on several proprietary algorithms implemented in the package are pending.
 
 Machine and deep learning:
 - supervised document classications (NBC, kNBC, SVM, Fisher Kernel)
@@ -26,4 +26,4 @@ INSTALLATION
 - Requirements: Java 1.8 installed, packages py4j and requests, 350MB of space in the Python package directory.
 - Download data files from the githb repository: https://github.com/sjskdas/aText
 
-For any further query or clarification or to obtain the full package, please contact at atext@machineanalytics.com. For details of the popular algorithms in aText, please consult the book Computational Business Analytics by Dr. Subrata Das, published by Chapman & Hall/CRC Press, 2014.
+For any further query or clarification or to obtain the other functions of the package, please contact at atext@machineanalytics.com. For details of the popular algorithms in aText, please consult the book Computational Business Analytics by Dr. Subrata Das, published by Chapman & Hall/CRC Press, 2014.
