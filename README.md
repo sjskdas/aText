@@ -26,4 +26,8 @@ INSTALLATION
 - Requirements: Java 1.8 installed, packages py4j and requests, 350MB of space in the Python package directory.
 - Download data files from the githb repository: https://github.com/sjskdas/aText
 
+ISSUES:
+- If an invalid or corrupt jar file error occurs then download the jar file from this location and then copy to the aText directory under python site-packages: https://drive.google.com/open?id=1Ajhdrxw3n-I6OE1nODdp6W0DbuW6aImb
+- If a permission error occurs when opening the example notebook file then start jupyter notebook as an administrator.
+
 For any further query or to obtain the other Python functions or the full Java version of the package, please contact at atext@machineanalytics.com. For details of the popular algorithms in aText, please consult the book Computational Business Analytics by Dr. Subrata Das, published by Chapman & Hall/CRC Press, 2014.
