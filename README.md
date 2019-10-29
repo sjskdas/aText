@@ -18,15 +18,16 @@ Web and social media:
 - web-scraping (e.g. Amazon and TripAdvisor) of reviews
 - social media (e.g. Facebook, Twitter) and email analyses
 
-The original package has been written in platform-independent Java with a graphical user interface. For developers, aText functionalities have been made accessible via APIs to the jar file. A Python wrapper has been added to expose most of the functions for data scientists and engineers. The code in this notebook file provides the following example basic usage of the package aText - basic sentiment analysis, document classification via Naive Bayesian Classifier (NBC), and sentence-level summarization.
+The original package has been written in platform-independent Java with a graphical user interface. For developers, aText functionalities have been made accessible via APIs to the jar file. A Python wrapper has been added to expose most of the functions for data scientists and engineers. The code in the notebook file aTextUsageExample.ipynb provides the following example basic usage of the package aText - basic sentiment analysis, document classification via Naive Bayesian Classifier (NBC), and sentence-level summarization.
 
-INSTALLATION
+INSTALLATION & RUNNING EXAMPLES
 
 - Execute "pip install atext"
-- Requirements: Anaconda latest for Python 3.7, Java 1.8 installed, packages py4j and requests, 250MB of space in the Python package directory.
-- Download data files from the github repository: https://github.com/sjskdas/aText
+- Requirements: Anaconda latest with Python 3.7, Java 1.8, packages py4j and requests, 250MB of space in the Python package directory.
+- Download data files from the githb repository: https://github.com/sjskdas/aText
+- Start Jupyter Notebook from the directory and run examples in aTextUsageExamples.ipynb
 
-ISSUES:
+POSSIBLE ISSUES:
 - If an invalid or corrupt jar file error occurs then download the jar file from this location and then copy to the aText directory under python site-packages: https://drive.google.com/open?id=1Ajhdrxw3n-I6OE1nODdp6W0DbuW6aImb
 - If a permission error occurs when opening the example notebook file then start jupyter notebook as an administrator.
 
