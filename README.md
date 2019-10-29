@@ -23,7 +23,7 @@ The original package has been written in platform-independent Java with a graphi
 INSTALLATION
 
 - Execute "pip install atext"
-- Requirements: Java 1.8 installed, packages py4j and requests, 350MB of space in the Python package directory.
+- Requirements: Anaconda latest for Python 3.7, Java 1.8 installed, packages py4j and requests, 250MB of space in the Python package directory.
 - Download data files from the githb repository: https://github.com/sjskdas/aText
 
 ISSUES:
