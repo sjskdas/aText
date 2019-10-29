@@ -24,7 +24,7 @@ INSTALLATION & RUNNING EXAMPLES
 
 - Execute "pip install atext"
 - Requirements: Anaconda latest with Python 3.7, Java 1.8, packages py4j and requests, 250MB of space in the Python package directory.
-- Download data files from the githb repository: https://github.com/sjskdas/aText
+- Download files from the githb repository: https://github.com/sjskdas/aText
 - Start Jupyter Notebook from the directory and run examples in aTextUsageExamples.ipynb
 
 POSSIBLE ISSUES:
